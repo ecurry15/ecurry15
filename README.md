@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Edward, an IT Professional / Front-End Developer. 👋
 
 <!--
 **ecurry15/ecurry15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
