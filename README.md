@@ -4,7 +4,10 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ecurry15/Configure-Active-Directory)
+  - 
 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - osTicket: Prerequisites and Installation
   - 
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
