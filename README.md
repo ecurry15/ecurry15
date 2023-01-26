@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- 
+- - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs]()
+
 - 
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
