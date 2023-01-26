@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
--
+- [Kia Car-Builder Landing Page](https://github.com/ecurry15/Kia-build-car-page-replica)
 -
 
 <h2>🤳Connect with me:</h2>
