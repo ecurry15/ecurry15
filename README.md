@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/ecurry15/Configure-Active-Directory)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ecurry15/Configure-Active-Directory)
 
-- 
+  - 
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
