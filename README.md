@@ -18,9 +18,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-- [<img align="left" alt="Edward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [LinkedIn](https://www.linkedin.com/in/edwardcampbell15)
 
-
- [linkedin]: https://www.linkedin.com/in/edwardcampbell15
-
-- Website: https://www.edwardcampbell.dev
+- [Portfolio Website](https://www.edwardcampbell.dev)
