@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ecurry15/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - osTicket: Prerequisites and Installation
+  - [osTicket: Prerequisites and Installation](https://github.com/ecurry15/osTicket-prerequisites)
   - 
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
