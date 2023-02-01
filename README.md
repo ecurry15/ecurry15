@@ -9,6 +9,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ecurry15/osTicket-prerequisites)
   - [osTicket: Post-installation Configuration](https://github.com/ecurry15/osTicket-post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ecurry15/osTicket-lifestyle)
 
 <h2>👨‍💻 Front-End Development Projects:</h2>
 
