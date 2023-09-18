@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 SOC/Security Analyst Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Phishing Analysis</b>
   - [Phishing Email Analysis and Report](https://github.com/ecurry15/)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
