@@ -1,5 +1,9 @@
-<h1>Hi, I'm Edward, an <a href="https://www.linkedin.com/in/edwardcampbell15">IT Professional / Front-End Dev</a>👋</h1>
+<h1>Hi, I'm Edward, an <a href="https://www.linkedin.com/in/edwardcampbell15">IT Professional / Security Analyst</a>👋</h1>
 
+<h2>👨‍💻 SOC/Security Analyst Projects:</h2>
+- <b>Phishing Analysis</b>
+  - [Phishing Email Analysis and Report](https://github.com/ecurry15/)
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
