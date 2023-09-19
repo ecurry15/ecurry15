@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC/Security Analyst Projects:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Email Investigation and Analysis Report](in progress)
+  - [Suspicious Email Investigation and Analysis Report](suspicious-email-investigation-report)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
