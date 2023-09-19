@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC/Security Analyst Projects:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Suspicious Email Investigation and Analysis Report](suspicious-email-investigation-report)
+  - [Suspicious Email Investigation and Analysis Report](https://github.com/ecurry15/suspicious-email-investigation-report)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
