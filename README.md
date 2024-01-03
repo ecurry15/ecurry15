@@ -1,6 +1,7 @@
 <h1>Hi, I'm Edward, an <a href="https://www.linkedin.com/in/edwardcampbell15">IT Professional / Security Analyst</a>👋</h1>
 
 <h2>👨‍💻 SOC/Security Analyst Projects:</h2>
+- [Azure: Creating a Live SOC/Honeynet](https://github.com/ecurry15/Azure-HoneyNet-Soc)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
