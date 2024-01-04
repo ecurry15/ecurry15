@@ -26,5 +26,3 @@
 <h2>🤳Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/edwardcampbell15)
-
-- [Portfolio Website](https://www.edwardcampbell.dev)
