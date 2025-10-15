@@ -30,33 +30,13 @@ if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
     exit
 }
 
-Write-Host "`n=== Disabling Windows PowerShell 2.0 feature ===`n" -ForegroundColor Cyan
-
-# Feature name for PowerShell 2.0
-$featureName = "MicrosoftWindowsPowerShellV2Root"
-
-try {
-    # Check current state
-    $feature = Get-WindowsOptionalFeature -Online -FeatureName $featureName -ErrorAction Stop
-
-    if ($feature.State -eq "Disabled") {
-        Write-Host "PowerShell 2.0 is already disabled." -ForegroundColor Green
-    } else {
-        Write-Host "Disabling PowerShell 2.0..." -ForegroundColor Yellow
-        Disable-WindowsOptionalFeature -Online -FeatureName $featureName -NoRestart -ErrorAction Stop | Out-Null
-        Write-Host "PowerShell 2.0 has been successfully disabled." -ForegroundColor Green
-    }
-
-    # Verify configuration
-    $verify = (Get-WindowsOptionalFeature -Online -FeatureName $featureName).State
-    if ($verify -eq "Disabled") {
-        Write-Host "Verification successful: PowerShell 2.0 is disabled." -ForegroundColor Green
-    } else {
-        Write-Host "Verification failed: PowerShell 2.0 is still enabled." -ForegroundColor Red
-    }
+$powershell2 = Get-WindowsOptionalFeature -online -featurename MicrosoftWindowsPowershellV2
+if ($powershell2.State -eq 'Enabled') {
+    write-host "PowershellV2 detected - Removing"
+    Disable-WindowsOptionalFeature -FeatureName MicrosoftWindowsPowershellV2 -Online -NoRestart
 }
-catch {
-    Write-Host "Error while disabling PowerShell 2.0: $_" -ForegroundColor Red
+$PowerShellV2Root = Get-WindowsOptionalFeature -online -featurename MicrosoftWindowsPowerShellV2Root
+if ($PowerShellV2Root.State -eq 'Enabled') {
+    write-host "PowerShellV2Root detected - Removing"
+    Disable-WindowsOptionalFeature -FeatureName MicrosoftWindowsPowerShellV2Root -Online -NoRestart
 }
-
-Write-Host "`n=== PowerShell 2.0 is disabled ===`n" -ForegroundColor Cyan
