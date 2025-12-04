@@ -6,7 +6,7 @@
   - [Azure: Creating a Live SOC/Honeynet](https://github.com/ecurry15/Azure-HoneyNet-Soc)
  
 - <b>Threat Hunt & Incident Repsonse (MDE)</b>
-  - [Live Threat Hunt / Incident-Response Report](https://github.com/ecurry15/CF-Azuki-Import-Export-Incident-Response)
+  - [CF Event Threat Hunt / Incident-Response Report](https://github.com/ecurry15/CF-Azuki-Import-Export-Incident-Response)
   - [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/ecurry15/threat-hunting-scenario-tor)
 
 - <b>Vulnerability Management (Tenable)</b>
