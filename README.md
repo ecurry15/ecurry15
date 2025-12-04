@@ -11,6 +11,7 @@
 
 - <b>Vulnerability Management (Tenable)</b>
   - [Mock Vulnerability Management Program Implementation](https://github.com/ecurry15/Vulnerability-Management-Program)
+  - [DISA STIG Remediations](https://github.com/ecurry15/Vulnerability-Management-Program)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
