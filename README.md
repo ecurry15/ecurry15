@@ -4,7 +4,13 @@
 
 - <b>Cloud Security/ SIEM</b>
   - [Azure: Creating a Live SOC/Honeynet](https://github.com/ecurry15/Azure-HoneyNet-Soc)
+ 
+- <b>Threat Hunt & Incident Repsonse</b>
+  - [Live Threat Hunt / Incident-Response Report](CF-Azuki-Import-Export-Incident-Response )
+  - [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/ecurry15/threat-hunting-scenario-tor)
 
+- <b>Vulnerability Management</b>
+  - [Mock Vulnerability Management Program Implementation](https://github.com/ecurry15/Vulnerability-Management-Program)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
