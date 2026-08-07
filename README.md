@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward, an <a href="https://www.linkedin.com/in/edwardcampbell15">IT Professional / Security Analyst</a>👋</h1>
+<h1>Hi, I'm Edward, an <a href="https://www.linkedin.com/in/edwardcampbell15">IT Professional / Identity Access Mananagement Analyst</a>👋</h1>
 
 <h2>👨‍💻 SOC/Security Analyst Projects:</h2>
 
@@ -8,12 +8,7 @@
 - <b>Threat Hunt & Incident Repsonse (MDE)</b>
   - [CF Event - Azuki #1 / Incident-Response Report](https://github.com/ecurry15/CF-Azuki-Import-Export-Incident-Response)
   - [CF Event - Azuki #4 / Incident-Response Report](https://github.com/ecurry15/CF-Azuki-Dead-in-the-Water)
-  - [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/ecurry15/threat-hunting-scenario-tor)
 
-- <b>Vulnerability Management (Tenable)</b>
-  - [Mock Vulnerability Management Program Implementation](https://github.com/ecurry15/Vulnerability-Management-Program)
-  - [DISA STIG Remediations](https://github.com/ecurry15/ecurry15/tree/main/STIGS)
-  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
