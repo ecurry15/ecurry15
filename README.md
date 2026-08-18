@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Identity and Access Management Projects (IAM):</h2>  
 
-- [Enterprise Identity & Access Management Lab](https://github.com/ecurry15/Enterprise-Identity-Access-Management-Lab-Microsoft-Entra)  
+- [Enterprise Identity & Access Management Lab - Entra ](https://github.com/ecurry15/Enterprise-Identity-Access-Management-Lab-Microsoft-Entra)  
 - [Federated SSO Implementation: Entra ID > Okta > Salesforce](https://github.com/ecurry15/Entra-Okta-SAML-SSO-Implementation)
 - [Configuring Active Directory within Azure VMs](https://github.com/ecurry15/Configure-Active-Directory)
 
